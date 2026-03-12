@@ -1,2 +1,2 @@
 # GET-achievements
-Try to get 16 STARTS ⭐
+Try to get 16 STARS ⭐
